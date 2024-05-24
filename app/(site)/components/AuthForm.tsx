@@ -76,9 +76,7 @@ const AuthForm = () => {
             register={register}
             errors={errors}
           />
-          <div>
-            <Button />
-          </div>
+          <div>{/* <Button /> */}</div>
         </form>
       </div>
     </div>
